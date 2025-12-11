@@ -62,6 +62,3 @@ This project is intended to contribute to:
 - Education on LLM cognitive behaviors  
 
 ---
-
-## 📘 Repository Contents
-
